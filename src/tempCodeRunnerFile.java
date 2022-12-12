@@ -1,0 +1,1 @@
+Traverse the Huffman tree and store the Huffman codes in a map
